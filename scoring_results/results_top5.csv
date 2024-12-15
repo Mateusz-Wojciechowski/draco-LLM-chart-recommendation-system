@@ -1,0 +1,16 @@
+col1,col2,chart_count,lida_score,draco_cost,final_score,llm_selected
+date,temp_max,5,7.1,14.2,0.38789473684210524,True
+date,precipitation,5,7.75,12.8,0.423731884057971,False
+date,temp_min,5,6.6,14.2,0.3628947368421052,False
+date,wind,5,7.05,12.8,0.388731884057971,False
+date,weather,5,5.6,15.2,0.3108641975308642,False
+precipitation,temp_max,5,6.95,14.0,0.38083333333333336,False
+precipitation,temp_min,5,6.6,14.0,0.3633333333333333,False
+precipitation,wind,5,7.8,12.4,0.4273134328358209,False
+precipitation,weather,5,6.35,14.8,0.34914556962025317,False
+temp_max,temp_min,5,5.55,16.0,0.30691176470588233,False
+temp_max,wind,5,6.35,14.0,0.35083333333333333,False
+temp_max,weather,5,6.0,16.8,0.32808988764044944,False
+temp_min,wind,5,6.3,14.0,0.34833333333333333,False
+temp_min,weather,5,6.35,16.8,0.34558988764044946,False
+wind,weather,5,6.3,14.8,0.34664556962025317,False

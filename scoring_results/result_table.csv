@@ -1,0 +1,4 @@
+chart_count,final_score_selected_pair,highest_scoring_column_pair,highest_final_score
+1,0.4083333333333333,"date,precipitation",0.4759615384615384
+3,0.3958333333333333,"precipitation,wind",0.4759615384615384
+5,0.3878947368421052,"precipitation,wind",0.4273134328358209
