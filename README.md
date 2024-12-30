@@ -8,7 +8,7 @@ To use this modified version in your virtual environment, run:
 ```
 pip install git+https://github.com/Mateusz-Wojciechowski/lida-for-vega-lite
 ```
-
+To view the report in an interactive form (working links etc.) it must be downloaded as the basic view in github repository doesn't provide this functionality
 ## Repository description
 
 
